@@ -97,7 +97,10 @@ const Sidebar = () => {
                         height: '74px',
                         left: '13px',
                         top: '123px',
-
+                        '&:hover': {
+                            background: '#7D48B1',
+                            
+                         },
 
                     }}>
                     <Link href="/" >
@@ -140,7 +143,9 @@ const Sidebar = () => {
                         width: '94px',
                         height: '74px',
 
-
+                        '&:hover': {
+                            background: '#7D48B1',
+                         },
 
                     }}>
                     <Link href="/">
@@ -180,6 +185,9 @@ const Sidebar = () => {
                         height: '74px',
                         left: '13px',
                         top: '123px',
+                         '&:hover': {
+                            background: '#7D48B1',
+                         },
 
                     }}>
                     <Link href="/">
@@ -220,6 +228,9 @@ const Sidebar = () => {
                         height: '74px',
                         left: '13px',
                         top: '123px',
+                        '&:hover': {
+                            background: '#7D48B1',
+                         },
 
                     }}>
                     <Link href="/">
@@ -255,6 +266,9 @@ const Sidebar = () => {
                         height: '74px',
                         left: '13px',
                         top: '123px',
+                        '&:hover': {
+                            background: '#7D48B1',
+                         },
 
                     }}>
                     <Link href="/">
@@ -296,6 +310,9 @@ const Sidebar = () => {
                         height: '74px',
                         left: '13px',
                         top: '123px',
+                        '&:hover': {
+                            background: '#7D48B1',
+                         },
 
                     }}>
                     <Link href="/"><a className="brand-logo left">
@@ -329,7 +346,9 @@ const Sidebar = () => {
 
                 <Box mx="auto"
                     sx={{
-
+                        '&:hover': {
+                            background: '#7D48B1',
+                         },
                         width: '94px',
                         height: '74px',
                         left: '13px',
@@ -365,7 +384,9 @@ const Sidebar = () => {
 
                 <Box mx="auto"
                     sx={{
-
+                        '&:hover': {
+                            background: '#7D48B1',
+                         },
                         width: '94px',
                         height: '74px',
                         left: '13px',
@@ -406,6 +427,9 @@ const Sidebar = () => {
                         height: '74px',
                         left: '13px',
                         top: '123px',
+                        '&:hover': {
+                            background: '#7D48B1',
+                         },
 
                     }}>
                     <Link href="/"><a className="brand-logo left">
@@ -436,7 +460,9 @@ const Sidebar = () => {
                 {/* nav-10 */}
                 <Box mx="auto"
                     sx={{
-
+                        '&:hover': {
+                            background: '#7D48B1',
+                         },
                         width: '94px',
                         height: '74px',
                         left: '13px',
