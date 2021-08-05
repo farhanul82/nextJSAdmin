@@ -8,13 +8,13 @@ const layout = ({ children }) => {
         <>
             <Box width={1} sx={{
                 background: ' #F1F3F4',
-                height: '100vh',
+                height: '200vh',
                 overflow:'hidden'
             }}>
                 <Sidebar />
                 <Box sx={{
                     padding: '0px 0px 0px 120px',
-
+ 
 
                     }}>
                     <TopNav />
@@ -22,7 +22,7 @@ const layout = ({ children }) => {
                    
                         margin: '100px 0px 0px 40px',
                        
-                        height:'auto',
+                        height:'100vh',
                         
                      }} >
                         {children}

@@ -76,8 +76,8 @@ const TopNav = () => {
             </Badge>
             <Avatar variant="square" alt="Remy Sharp" src="/topNav/2.png" sx={{
                 position: 'absolute',
-                width: '17.75px',
-                height: '21px',
+                width: '16px',
+                height: '20px',
                 right: '130px',
                 top: '54.18px',
 
@@ -86,10 +86,10 @@ const TopNav = () => {
 
 
 
-            <Avatar alt="Remy Sharp" src="/topNav/3.png" sx={{
+            <Avatar variant="square"  alt="Remy Sharp" src="/topNav/3.png" sx={{
                 position: 'absolute',
-                width: '15.75px',
-                height: '17.66px',
+                width: '22px',
+                height: '20px',
                 right: '170px',
                 top: '54.18px',
 

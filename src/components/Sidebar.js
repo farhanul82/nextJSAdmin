@@ -57,9 +57,9 @@ const Sidebar = () => {
     console.log(active)
 
     return (
-        <Box height="100vh" position="fixed" sx={{
+        <Box height="100vh" position="absolute" sx={{
             width: '120px',
-            height: '2069px',
+            height: '200vh',
             left: '0px',
             top: '0px',
 
